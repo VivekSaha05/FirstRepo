@@ -86,4 +86,9 @@ $ git checkout {filename.html}
 >To get back all files without modification (previous commited code)
 $ git checkout -f
 
->
+>log used to know what we commited before (history)
+$ git log
+
+>to see specific part of the last log
+$ git log -p -1 [-1 represents 1 commit, we can see any]
+
