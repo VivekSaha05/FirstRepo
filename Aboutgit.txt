@@ -106,3 +106,4 @@ $ git rm {filename.html}
  files. can be bringed back by add -A.
 $ git rm --cached {filename.html}
 
+>
