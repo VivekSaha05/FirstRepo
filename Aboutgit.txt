@@ -77,7 +77,7 @@ $ touch {filename.html}
 >To add all files at once in stageing area 
 $ git add -A
 
->To commit it easily without :wq
+>To commit it easily without opening new tab
 $ git commit -m "added more htmls"
 
 >To get back to your previous code without modification
