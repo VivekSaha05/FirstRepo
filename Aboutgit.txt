@@ -96,6 +96,13 @@ $ git diff
 >To see differencebtw stage area to last working/commited area
 $ git diff --staged
 
->Direct commit and skiped staging area and fixed
-$ git comit -a -m "msg <"
+>Direct commit and skiped staging area and fixed [after add -A]
+$ git commit -a -m "msg <"
+
+>Remove file completely
+$ git rm {filename.html}
+
+>Remove file from staging area but will be stored on untracked
+ files. can be bringed back by add -A.
+$ git rm --cached {filename.html}
 
