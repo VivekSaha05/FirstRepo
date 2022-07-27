@@ -90,5 +90,5 @@ $ git checkout -f
 $ git log
 
 >to see specific part of the last log
-$ git log -p -1 [-1 represents 1 commit, we can see any]
+$ git log -p -1 [-1 represents previous last commit, we can see any]
 
