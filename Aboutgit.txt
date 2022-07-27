@@ -83,4 +83,7 @@ $ git commit -m "added more htmls"
 >To get back to your previous code without modification
 $ git checkout {filename.html}
 
+>To get back all files without modification
+$ git checkout -f
 
+>
