@@ -1,0 +1,81 @@
+**GIT AND GITHUB**
+00:00 – Introduction
+00:36 – What is Git ?
+01:19 – Downloading Git
+03:24 – Installing Git
+06:11 – Configuring Name & Email in Git
+08:28 – init command
+09:55 – Untracked & Staged File
+21:20 – git checkout command
+23:45 – git log command
+25:47 – git diff command
+31:08 – Removing file (rm command)
+37:38 – git ignore command
+46:00 – Branches
+58:10 – GitHub
+01:02:07 – Remote Repository
+01:07:18 – git push command
+01:11:37 – git clone 
+01:14:01 – Cheat sheet
+01:14:32 – Courses Detail
+
+>What is git ?
+ Git is software for tracking changes in any set of files,
+ usually used for coordinating work among programmers 
+ collaboratively developing source code during software 
+ development. Its goals include speed, data integrity, 
+ and support for distributed, non-linear workflows.
+
+>Difference btw git and github ?
+ what's the difference? Simply put, 
+ Git is a version control system that 
+ lets you manage and keep track of your 
+ source code history. GitHub is a 
+ cloud-based hosting service that 
+ lets you manage Git repositories.
+ If you have open-source projects 
+ that use Git, then GitHub is designed 
+ to help you better manage them.
+
+>What is repositories and why it used?
+ A repository is usually used to organize
+ a single project. Repositories can contain
+ folders and files, images, videos, spreadsheets,
+ and data sets -- anything your project needs.
+ Often, repositories include a README file, a
+ file with information about your project.
+ README files are written in the plain text Markdown language.
+
+# Git software hai and github aak cloud based data storing service hai
+# git is like chrome and github chrome history
+# it stores every changes in code for future references
+# git se github mai file upload/update/commit hota hai
+# git bash terminal se sab run kiya jayega
+
+> How to add name and email
+$ git config --global user.name {name}
+$ git config --global user.email {email}
+
+>To Initialise a Repo/project 
+$ git init
+
+>To see all files in that folder including hidden files
+$ ls -lart
+
+>To see status about files
+$ git status
+
+>To forward the file to staging area
+$ git add {filename.html} 
+
+>To save/commit the staged file
+$ git commit
+
+>To create a blank file
+$ touch {filename.html}
+
+>To add all files at once in stageing area 
+$ git add -A
+
+>To commit it easily without :wq
+$ git commit -m "added more htmls"
