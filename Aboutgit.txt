@@ -106,4 +106,7 @@ $ git rm {filename.html}
  files. can be bringed back by add -A.
 $ git rm --cached {filename.html}
 
+>To forcely delete the file from staged area
+$ git rm -f {filename.html}
+
 >
