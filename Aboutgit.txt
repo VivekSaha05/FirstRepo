@@ -96,4 +96,6 @@ $ git diff
 >To see differencebtw stage area to last working/commited area
 $ git diff --staged
 
->
+>Direct commit and skiped staging area and fixed
+$ git comit -a -m "msg <"
+
