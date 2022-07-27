@@ -87,8 +87,7 @@ $ git checkout {filename.html}
 $ git checkout -f
 
 >log used to know what we commited before (history)
-$ git log
+$ git log  [press Q to quit]
 
 >to see specific part of the last log
 $ git log -p -1 [-1 represents previous last commit, we can see any]
-
