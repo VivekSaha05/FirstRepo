@@ -7,7 +7,7 @@ Untracked & Staged File
 git checkout command
 git log command
 git diff command
-31:08 – Removing file (rm command)
+Removing file (rm command)
 37:38 – git ignore command
 46:00 – Branches
 58:10 – GitHub
