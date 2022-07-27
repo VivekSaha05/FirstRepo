@@ -92,5 +92,7 @@ $ git log  [press Q to quit]
 >to see specific part of the last log
 $ git log -p -1 [-1 represents previous last commit, we can see any]
 
->To see difference btw working area to stage area
+>To see difference btw working area to stage/commited area
 $ git diff
+
+>
