@@ -97,7 +97,7 @@ $ git diff
 $ git diff --staged
 
 >Direct commit and skiped staging area and fixed [without doing add -A]
-$ git commit -a -m "msg <"
+$ git commit -a -m "{msg}"
 
 >Remove file completely
 $ git rm {filename.html}
