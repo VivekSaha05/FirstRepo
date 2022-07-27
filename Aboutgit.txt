@@ -1,14 +1,12 @@
 **GIT AND GITHUB**
-00:00 – Introduction
-00:36 – What is Git ?
-01:19 – Downloading Git
-03:24 – Installing Git
-06:11 – Configuring Name & Email in Git
-08:28 – init command
-09:55 – Untracked & Staged File
-21:20 – git checkout command
-23:45 – git log command
-25:47 – git diff command
+Introduction
+What is Git ?
+Configuring Name & Email in Git
+init command
+Untracked & Staged File
+git checkout command
+git log command
+git diff command
 31:08 – Removing file (rm command)
 37:38 – git ignore command
 46:00 – Branches
@@ -95,5 +93,7 @@ $ git log -p -1 [-1 represents previous last commit, we can see any]
 >To see difference btw working/commited area to stage area
 $ git diff
 
->To see differencebtw stage area to working/commited area
-$ git diff -- staged
+>To see differencebtw stage area to last working/commited area
+$ git diff --staged
+
+>
