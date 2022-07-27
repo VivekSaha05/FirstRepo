@@ -77,13 +77,13 @@ $ touch {filename.html}
 >To add all files at once in stageing area 
 $ git add -A
 
->To commit it easily without opening new tab
+>To commit it easily without opening new tab of commit edit
 $ git commit -m "added more htmls"
 
->To get back to your previous code without modification
+>To get back to your previous code without modification (previous commited code)
 $ git checkout {filename.html}
 
->To get back all files without modification
+>To get back all files without modification (previous commited code)
 $ git checkout -f
 
 >
