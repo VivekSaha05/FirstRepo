@@ -8,8 +8,8 @@ git checkout command
 git log command
 git diff command
 Removing file (rm command)
-37:38 – git ignore command
-46:00 – Branches
+git ignore command
+Branches
 58:10 – GitHub
 01:02:07 – Remote Repository
 01:07:18 – git push command
@@ -18,30 +18,20 @@ Removing file (rm command)
 01:14:32 – Courses Detail
 
 >What is git ?
- Git is software for tracking changes in any set of files,
- usually used for coordinating work among programmers 
- collaboratively developing source code during software 
- development. Its goals include speed, data integrity, 
+ Git is software for tracking changes in any set of files, usually used for coordinating work among programmers 
+ collaboratively developing source code during software development. Its goals include speed, data integrity, 
  and support for distributed, non-linear workflows.
 
 >Difference btw git and github ?
- what's the difference? Simply put, 
- Git is a version control system that 
- lets you manage and keep track of your 
- source code history. GitHub is a 
- cloud-based hosting service that 
- lets you manage Git repositories.
- If you have open-source projects 
- that use Git, then GitHub is designed 
- to help you better manage them.
+ Git is a version control system that lets you manage and keep track of your 
+ source code history. GitHub is a cloud-based hosting service that 
+ lets you manage Git repositories.If you have open-source projects 
+ that use Git, then GitHub is designed to help you better manage them.
 
 >What is repositories and why it used?
- A repository is usually used to organize
- a single project. Repositories can contain
- folders and files, images, videos, spreadsheets,
- and data sets -- anything your project needs.
- Often, repositories include a README file, a
- file with information about your project.
+ A repository is usually used to organize a single project. Repositories can contain
+ folders and files, images, videos, spreadsheets, and data sets -- anything your project needs.
+ Often, repositories include a README file, a file with information about your project.
  README files are written in the plain text Markdown language.
 
 # Git software hai and github aak cloud based data storing service hai
