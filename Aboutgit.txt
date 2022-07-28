@@ -112,5 +112,6 @@ $ git rm -f {filename.html}
 >To see which file is modified
 $ git status -sab
 
->to create a git ignore file
+>to create a git ignore file [just write name of the file]
 $ touch .gitignore
+
