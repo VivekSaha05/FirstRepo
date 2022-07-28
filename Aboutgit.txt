@@ -133,3 +133,4 @@ $ git merge {name of the duplicate branch}
 >To open a new branch and enter it directly without checkout
 $ git checkout -b {name of the new brnach}
 
+*file made in any specific branch doesnt show on another branch*
