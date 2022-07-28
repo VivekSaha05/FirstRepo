@@ -115,3 +115,8 @@ $ git status -sab
 >to create a git ignore file [just write name of the file]
 $ touch .gitignore
 
+>Git ignore some commands
+mylog.log [remove all file having same name in that folder]
+/mylog.log [remove that particular log file]
+*.log , *.cpp , *.html [ignore all the files having this extension]
+foldername/ [to ignore that folder in the repo]
