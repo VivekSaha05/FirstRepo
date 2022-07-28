@@ -120,3 +120,16 @@ mylog.log [remove all file having same name in that folder]
 /mylog.log [remove that particular log file]
 *.log , *.cpp , *.html [ignore all the files having this extension]
 foldername/ [to ignore that folder in the repo]
+ 
+>To open a new branch [used to separate master/original branch and create its duplicate copy]
+$ git branch {name of new branch}
+
+>To change/switch the branch
+$ git checkout {name of the branch}
+
+>To merge master branch with duplicate branch
+$ git merge {name of the duplicate branch}
+
+>To open a new branch and enter it directly without checkout
+$ git checkout -b {name of the new brnach}
+
