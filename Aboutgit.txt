@@ -109,4 +109,8 @@ $ git rm --cached {filename.html}
 >To forcely delete the file from staged area
 $ git rm -f {filename.html}
 
->
+>To see which file is modified
+$ git status -sab
+
+>to create a git ignore file
+$ touch .gitignore
